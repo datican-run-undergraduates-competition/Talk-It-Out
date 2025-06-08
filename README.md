@@ -4,3 +4,6 @@ Talk It Out is an innovative mental health chatbot designed specifically for stu
 
 Google drive link for the codes:
 https://drive.google.com/drive/folders/1UTMGLQ84jT9uE7kVENeyhETyaHORI3vn?usp=drive_link
+
+Link to hosted app:
+https://talk-it-out-90fw.onrender.com
